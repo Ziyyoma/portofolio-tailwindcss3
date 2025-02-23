@@ -15,7 +15,7 @@ module.exports = {
         green: '#14b8a6'
       },
       screens: {
-        'xl': '1920px',
+        '2xl': '1320px',
       },
     },
   },
